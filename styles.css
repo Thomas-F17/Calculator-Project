@@ -1,0 +1,22 @@
+/* Add your CSS styles here */
+.calculator {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+#display {
+    width: 100%;
+    padding: 10px;
+    font-size: 24px;
+    text-align: right;
+    border: none;
+    outline: none;
+    margin-bottom: 10px;
+}
+
+/* Style calculator buttons */
+/* You can style the buttons as you like */
